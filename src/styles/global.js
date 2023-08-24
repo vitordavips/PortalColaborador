@@ -9,7 +9,15 @@ export default createGlobalStyle`
 
     body {
         background: ${({ theme }) => theme.COLORS.BACKGROUND};
-        color: ${({ theme }) => theme.COLORS.white};
+        color: ${({ theme }) => theme.COLORS.Black};
+
+        -webkit-font-smoothing: antialiased;
+    }
+
+    body, button {
+        font-family: 'Roboto Slab', serif;
+        font-size: 16px;
+        outline: none;
     }
 
     a {
