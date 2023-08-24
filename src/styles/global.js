@@ -9,5 +9,20 @@ export default createGlobalStyle`
 
     body {
         background: ${({ theme }) => theme.COLORS.BACKGROUND};
+        color: ${({ theme }) => theme.COLORS.white};
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    button, a {
+        cursor: pointer;
+        transition: filter 0.2s;
+    }
+
+    button:hover{
+        //Esse filtro vai escurecer o button
+        filter: brightness(0.9);
     }
 `;
