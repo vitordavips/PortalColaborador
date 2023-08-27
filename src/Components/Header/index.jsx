@@ -1,9 +1,15 @@
-import { Container } from "./styles";
+import { Container, Profile } from "./styles";
+import LogoDigiboard from '../../../Imagens/LogoDigiboard.png';
 
 export function Header(){
     return(
         <Container>
-            <img src="../../Imagens/Logo_Digiboard.jpg" alt="" />
+            <Profile>
+                <img 
+                    src={ LogoDigiboard } 
+                    alt="logo digiboard" 
+                />
+            </Profile>
         </Container>
     );
 }
