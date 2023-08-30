@@ -11,7 +11,7 @@ export function Details(){
 
             <Section title="Dados Pessoais">
                 <ul>
-                    <li><Button title=""/></li>
+                    <li><Button title="Meus Dados"/></li>
                 </ul>
             </Section>
            
