@@ -1,7 +1,8 @@
 export default {
     COLORS: {
-        BACKGROUND: "#DFE4F2",        
-        
+        BACKGROUND: "#FFFFFF",
+
+        light_gray: "#DEEFE7";
         Black: "#14140F",
         white: "#F0F2F2",
         light_purple: "#7566D9",

@@ -6,11 +6,11 @@ export const Container = styled.header`
     height: 105px;
     width: 100%;
 
-    background: ${({ theme }) => theme.COLORS.white};
+    background: ${({ theme }) => theme.COLORS.BACKGROUND};
 
     border-bottom-width: 1px;
     border-bottom-style: solid;
-    border-bottom-color: ${({ theme }) => theme.COLORS.BACKGROUND};
+    border-bottom-color: ${({ theme }) => theme.COLORS.BACKGROUND};     
 
     display: flex;
     justify-content: space-between;
