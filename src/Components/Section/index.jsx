@@ -1,11 +1,11 @@
 import { Container } from "./styles";
 
-
-export function Section( title, children ) {
+// eslint-disable-next-line react/prop-types
+export function Section( {title} ) {
     return (
         <Container>
             {title}
-            {children}
+            
         </Container>
     )
 }
