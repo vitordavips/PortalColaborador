@@ -63,8 +63,20 @@ export function Details(){
                 </p>
             </Section>
 
-            <Section>
-                
+            <Section title="O que a Digiboard tem feito para garantir a Saúde e Segurança Ocupacional do Trabalho?">
+                <ul>
+                    <li><button><a href="#">Atendimento as NR`s</a></button></li>
+                    <li><button><a href="#">Consultores Técnicos</a></button></li>
+                    <li><button><a href="#">Programas de Vacinação</a></button></li>
+                    <li><button><a href="#">Equipe de Saúde e Segurança</a></button></li>
+                    <li><button><a href="#">Simulação de Emergências</a></button></li>
+                    <li><button><a href="#">Programa HDD</a></button></li>
+                    <li><button><a href="#">Campanhas de Saúde</a></button></li>
+                    <li><button><a href="#">Ginástica Elaboral</a></button></li>
+                    <li><button><a href="#">Controle Potabilidade de Água</a></button></li>
+                    <li><button><a href="#">SIPAT</a></button></li>
+                    <li><button><a href="#">Treinamentos</a></button></li>
+                </ul>
             </Section>
         </Container>            
     )
