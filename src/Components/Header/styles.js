@@ -31,6 +31,6 @@ export const Profile = styled.div`
 `;
 
 export const TextBlock = styled.div`
-    margin-top: 16px;
-    margin-right: 33%;
+    margin-top: 17px;
+    margin-right: 33%;    
 `;
