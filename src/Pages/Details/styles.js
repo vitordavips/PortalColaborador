@@ -19,6 +19,7 @@ export const Container = styled.div`
    #caixaFilho3{
       display: block;
       justify-content: flex-start;
+
    };
 
    #caixaFilho4{
@@ -35,6 +36,10 @@ export const Container = styled.div`
          margin: 10px;
       };
    };
+
+   ul{
+      margin-top: 10px;
+   }
 
 
 `;

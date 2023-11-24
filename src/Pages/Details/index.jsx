@@ -70,7 +70,7 @@ export function Details(){
                 </div>    
 
                 <div id='caixaFilho3'>
-                    <Section title="O que a empresa tem feito para garantir a Saúde e Segurança Ocupacional do Trabalho?">
+                    <Section title="Saúde e Segurança Ocupacional do Trabalho">
                             <ul>
                                 <li><button><a href="#">Atendimento as NR`s</a></button></li>
                                 <li><button><a href="#">Consultores Técnicos</a></button></li>

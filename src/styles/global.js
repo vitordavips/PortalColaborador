@@ -16,7 +16,7 @@ export default createGlobalStyle`
 
     button {
         height: 50px;
-        width: 200px;
+        width: 100%;
         margin-bottom: 10px;
         background-color: #3B8FD9;
         padding: 10px 20px; /* Tamanho do botão */
